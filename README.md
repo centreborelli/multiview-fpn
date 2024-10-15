@@ -2,7 +2,7 @@
 
 [WACV version  of the article](https://openaccess.thecvf.com/content/WACV2024/papers/Barral_Fixed_Pattern_Noise_Removal_for_Multi-View_Single-Sensor_Infrared_Camera_WACV_2024_paper.pdf)
 
-This repository provides an implementation of the article **Fixed Pattern Noise Removal For Multi-View Single-Sensor Infrared Camera.**
+This repository provides the official implementation of the article **Fixed Pattern Noise Removal For Multi-View Single-Sensor Infrared Camera**.
 
 ## How to use
 
@@ -22,7 +22,8 @@ python CP/Multi_view_CP_offline.py --refdir 'testset/noisy' --outdir './results'
 
 Same for pytorch implementation with Pytorch/Multi_view_GD_offline.py
 
-## DATA coming soon :hourglass:! 
+## DATA
+The the data is available on the following [link](https://zenodo.org/records/13935908)
 
 ## Citation
 If you use our work, please cite us with the following:
