@@ -23,7 +23,7 @@ python CP/Multi_view_CP_offline.py --refdir 'testset/noisy' --outdir './results'
 Same for pytorch implementation with Pytorch/Multi_view_GD_offline.py
 
 ## DATA
-The the data is available on the following [link](https://zenodo.org/records/13935908)
+The data is available on the following [link](https://zenodo.org/records/13935908)
 
 ## Citation
 If you use our work, please cite us with the following:
