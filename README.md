@@ -23,7 +23,12 @@ python CP/Multi_view_CP_offline.py --refdir 'testset/noisy' --outdir './results'
 Same for pytorch implementation with Pytorch/Multi_view_GD_offline.py
 
 ## DATA
-The data is available on the following [link](https://zenodo.org/records/13935908)
+The data is available on the following [link](https://zenodo.org/records/13935908).
+To create average images as in the paper you can use the follwing command:
+
+``` 
+python python get_average_tiff.py --indir 'PathOfTheData' --outdir 'WhereToSaveAverageImages'
+```
 
 ## Citation
 If you use our work, please cite us with the following:
