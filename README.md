@@ -27,7 +27,7 @@ The data is available on the following [link](https://zenodo.org/records/1393590
 To create average images as in the paper you can use the follwing command:
 
 ``` 
-python python get_average_tiff.py --indir 'PathOfTheData' --outdir 'WhereToSaveAverageImages'
+python get_average_tiff.py --indir 'PathOfTheData' --outdir 'WhereToSaveAverageImages'
 ```
 
 ## Citation
