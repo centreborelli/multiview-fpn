@@ -34,7 +34,7 @@ python get_average_tiff.py --indir 'PathOfTheData' --outdir 'WhereToSaveAverageI
 If you use our work, please cite us with the following:
 ```
 @InProceedings{Barral_2024_WACV,
-    author    = {Barral, Arnaud and Arias, Pablo and Davy, Axel},
+    author    = {Barral, Hortensia and Arias, Pablo and Davy, Axel},
     title     = {Fixed Pattern Noise Removal for Multi-View Single-Sensor Infrared Camera},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {January},
